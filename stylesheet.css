@@ -7,11 +7,26 @@ body {
     background-color: #F0F8FF;
    }
 
+   nav{
+    text-align: center;
+    background-color: #ffd9e0;
+    letter-spacing: 0.2em;
+    padding:10px ;
+    border-bottom: 1px solid #6B001D ;
+   }
+
+li{
+    display: inline-block ;
+    margin: 40px ;
+    
+}
+
 h1{
     color: #6B001D;
     text-transform: uppercase;
     text-align: center;
     margin-top: 5%;
+
 }
 
 h3{
