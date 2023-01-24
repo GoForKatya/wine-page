@@ -65,3 +65,30 @@ td{
     padding-right: 10px;
     vertical-align: top;
 }
+
+footer{
+    text-align: center;
+    background-color: #efdede;
+    letter-spacing: 0.2em;
+    padding:30px ;
+    border-top: 1px solid #6B001D ;
+}
+
+footer a{
+    color: #e7537a;
+    text-decoration: none;
+}
+
+#resume{
+    padding: 1em;
+    margin:10px;
+    border-radius: 50%;
+    border: 1px solid pink;
+}
+
+#resume:hover{
+    padding: 0.5em;
+    margin:10px;
+    border-radius: 40%;
+    border: 1px solid rgb(201, 107, 123);
+}
