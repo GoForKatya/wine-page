@@ -72,6 +72,7 @@ footer{
     letter-spacing: 0.2em;
     padding:30px ;
     border-top: 1px solid #6B001D ;
+
 }
 
 footer a{
@@ -91,4 +92,9 @@ footer a{
     margin:10px;
     border-radius: 40%;
     border: 1px solid rgb(201, 107, 123);
+}
+
+a{
+    color:#e7537a;
+    text-decoration: none;
 }
